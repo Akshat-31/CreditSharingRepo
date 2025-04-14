@@ -1,0 +1,1 @@
+This is a credit sharing platform through which user can share the credit facilities by availing offers on various online platform like amazon, Walmart, skip etc by connecting with user who have the credit card available.
